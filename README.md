@@ -1,6 +1,6 @@
 <!-- logo (start) -->
 <a href="https://flowrift.com" target="_blank">
-  <img src=".github/img/logo.svg" width="200px">
+  <img src=".github/img/logo.svg" width="100%">
 </a>
 <!-- logo (end) -->
 
