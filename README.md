@@ -12,9 +12,11 @@ All things Flowrift.
 
 <!-- links (start) -->
 ## Links
-| Link | Descrition |
-| - | - |
-| [Flowrift](https://flowrift.com) | Flowrift App |
-| [Flowrift Changelog](/CHANGELOG.md) | Version Changelog for Flowrift |
-| [About Flowrift](https://about.flowrift.com) | Page teasing Flowrift |
+| Link | Location | Descrition |
+| - | - | - |
+| [App](https://flowrift.com) | <img src="https://img.shields.io/static/v1?label=&message=External&color=2dd4bf"> | Flowrift App. Beautifully designed Tailwind CSS UI blocks. |
+| [About](https://about.flowrift.com) | <img src="https://img.shields.io/static/v1?label=&message=External&color=2dd4bf"> | A quick introduction to Flowrift. |
+| [Issues](/issues) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=2dd4bf"> | Flowrift issue tracker. |
+| [Discussions](/discussions) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=2dd4bf"> | A place for discussions about Flowrift. |
+| [Changelog](/CHANGELOG.md) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=2dd4bf"> | Features and bug fixes. |
 <!-- links (end) -->
