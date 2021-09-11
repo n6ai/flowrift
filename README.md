@@ -5,14 +5,14 @@
 <!-- banner (end) -->
 
 <!-- title / description (start) -->
-<h2 align="center">Flowrift Help</h2>
+## Flowrift Space
 
 All things Flowrift.
 <!-- title / description (end) -->
 
 <!-- links (start) -->
 ## Links
-| Link | Location | Descrition |
+| Link | Location | Description |
 | - | - | - |
 | [App](https://flowrift.com) | <img src="https://img.shields.io/static/v1?label=&message=External&color=323237"> | Flowrift App. Beautifully designed Tailwind CSS UI blocks. |
 | [About](https://about.flowrift.com) | <img src="https://img.shields.io/static/v1?label=&message=External&color=323237"> | A quick introduction to Flowrift. |
