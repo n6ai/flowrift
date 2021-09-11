@@ -1,8 +1,8 @@
-<!-- banner (start) -->
-<p align="center">
-  <img src=".github/img/repo-banner.svg" width="100%">
-</p>
-<!-- banner (end) -->
+<!-- logo (start) -->
+<a href="https://flowrift.com" target="_blank">
+  <img src=".github/img/logo.svg" width="200px">
+</a>
+<!-- logo (end) -->
 
 <!-- title / description (start) -->
 ## Flowrift Space
