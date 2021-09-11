@@ -1,0 +1,46 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: YOUR TITLE HERE"
+labels: [bug]
+body:
+  -
+    type: markdown
+    attributes:
+      value: "## Environment"
+  -
+    type: input
+    attributes:
+      label: OS
+      description: Which device/operating-system/version are you using?
+      placeholder: PC Windows 10
+    validations:
+      required: true
+  -
+    type: dropdown
+    id: browsers
+    attributes:
+      label: Browsers
+      description: Which browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Microsoft Edge
+  -
+    type: markdown
+    attributes:
+      value: "## Details"
+  -
+    type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Tell us what happened and the steps to reproduce the issue. Images and videos can be a great help!
+      placeholder: |
+        1. I clicked on X
+        2. Something happened
+        3. An error occurred
+        Here is a video where you can see the issue.
+    validations:
+      required: true
