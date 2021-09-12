@@ -1,8 +1,8 @@
-<!-- logo (start) -->
+<!-- banner (start) -->
 <a href="https://flowrift.com?utm_source=flowrift-spaces&utm_medium=organic" target="_blank">
-  <img src=".github/img/logo.svg" width="100%">
+  <img src=".github/img/banner.svg" width="100%">
 </a>
-<!-- logo (end) -->
+<!-- banner (end) -->
 
 <!-- title / description (start) -->
 ## Flowrift Space
