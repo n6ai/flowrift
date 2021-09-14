@@ -1,13 +1,21 @@
+Version 1.0.0-beta.4
+---
+
+* Added new `Gallery` collection with 3 new blocks
+* Added new `404` collection with 5 new blocks
+* Adjusted image lazy-loading transition speed to be slightly faster
+
+
 Version 1.0.0-beta.3
 ---
 
-* Update Open Graph image
-* Update welcome text
+* Updated Open Graph image
+* Updated welcome text
 
 Version 1.0.0-beta.2
 ---
 
-* Add Open Graph tags
+* Added Open Graph tags
 
 Version 1.0.0-beta.1
 ---
