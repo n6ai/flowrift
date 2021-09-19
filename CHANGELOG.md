@@ -1,3 +1,10 @@
+Version 1.0.0-beta.6
+---
+
+* Added new `Team` collection with 4 new blocks
+* Added new `Logo Cloud` collection with 3 new blocks
+* Added new `Banner` collection with 2 new blocks
+
 Version 1.0.0-beta.5
 ---
 
