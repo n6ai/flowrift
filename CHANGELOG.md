@@ -1,3 +1,14 @@
+Version 1.0.0-beta.7
+---
+
+* Added new `Testimonials` collection with 3 new blocks
+* Added new `Stats` collection with 3 new blocks
+* Adjusted block preview background on light mode to be slightly darker for better contrast
+* Adjusted multiple `svg` block preview images
+* Adjusted multiple block image dimensions
+* Added additional team members to `Team` collection blocks to fill empty space
+* Added div tag wraps to multiple text sections for better grouping
+
 Version 1.0.0-beta.6
 ---
 
