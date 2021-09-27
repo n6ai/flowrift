@@ -1,3 +1,15 @@
+Version 1.0.0-beta.8
+---
+
+* Added new `Call to Action` collection with 4 new blocks
+* Added new `Form` collection with 1 new block
+* Added new `Content` collection with 2 new blocks
+* Added new `FAQ` collection with 1 new block
+* Added new `Full Page` collection with 1 new block
+* Added new `Blog` collection with 1 new block
+* Updated welcome screen with a link to a full page block
+* Updated multiple `svg` block preview images
+
 Version 1.0.0-beta.7
 ---
 
