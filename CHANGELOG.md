@@ -1,3 +1,10 @@
+Version 1.0.0
+---
+
+* Added new `Pricing` collection with 1 new block
+* Added 1 new block to the `Full Page` collection
+* Updated multiple `svg` block preview images
+
 Version 1.0.0-beta.8
 ---
 
