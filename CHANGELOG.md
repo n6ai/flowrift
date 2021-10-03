@@ -1,3 +1,32 @@
+Version 1.1.0
+---
+
+### Content
+* Added 3 new blocks to the `Blog` collection
+* Added 3 new blocks to the `FAQ` collection
+* Adjusted some blocks for more consistency
+* Removed redundant margins from `FAQ` components
+* Updated multiple `svg` block preview images
+
+### Core
+* Reordered links in `Links` section inside `Help`
+* Add double-click notice to `Shortcuts` section inside `Help`
+* Added a `Resources` section inside `Help`
+* Added used `font-weights` inside `Help`
+* Better integration with Google Chromes native `translation API`
+* Made buttons slightly bigger
+* Adjusted some spacings
+* Multiple performance improvements
+* Updated favicons
+* SEO optimizations
+
+### PWA
+* Change app-bar color based on the currently selected theme
+* Change body background color based on the currently selected theme
+* Added new icons
+* Adjusted multiple icon dimensions
+* Added a toast notice for updates
+
 Version 1.0.0
 ---
 
