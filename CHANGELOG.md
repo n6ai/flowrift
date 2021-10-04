@@ -1,3 +1,10 @@
+Version 1.1.1
+---
+
+### Content
+* Replaced all Latin placeholder text with English, it's now possible to translate/preview the dummy text in languages like `Japanese` with Google Chromes native `translation API`
+* Minor adjustments to some blocks
+
 Version 1.1.0
 ---
 
