@@ -1,3 +1,14 @@
+Version 1.1.2
+---
+
+### Content
+* Added 3 new blocks to the `Pricing` collection
+* Minor adjustments to some blocks
+* Updated multiple `svg` block preview images
+
+### Core
+* Always keep previews resize-bar icon in view
+
 Version 1.1.1
 ---
 
