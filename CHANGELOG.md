@@ -1,3 +1,14 @@
+Version 1.1.3
+---
+
+### Content
+* Added 1 new block to the `Form` collection
+* Minor adjustments to some blocks
+* Fixed typos
+
+### Core
+* Update the title dynamically, based on the current page (e.g. collection, block)
+
 Version 1.1.2
 ---
 
