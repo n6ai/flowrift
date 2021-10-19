@@ -4,7 +4,7 @@ Version 1.2.0
 ### Content
 * Added new `Collections` collection with 3 new blocks
 * Added new `Product Grid` collection with 3 new blocks
-* Added new `Product Detail` collection with 3 new blocks
+* Added new `Product Detail` collection with 2 new blocks
 * Added new `Reviews` collection with 3 new blocks
 * Added new `Shopping Cart` collection with 2 new blocks
 * Added 1 new block to the `Hero` collection
