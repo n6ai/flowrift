@@ -9,7 +9,7 @@ Version 1.2.0
 * Added new `Shopping Cart` collection with 2 new blocks
 * Added 1 new block to the `Hero` collection
 * Added 1 new block to the `Full Page` collection
-* All blocks are now pre-formatted with `Prettier` for more consistancy
+* All blocks are now pre-formatted with `Prettier` for more consistency
 * Updated multiple `svg` block preview images
 
 ### Core
