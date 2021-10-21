@@ -1,3 +1,10 @@
+Version 1.2.1
+---
+
+### Content
+* Updated Links section in `Help` sidebar
+* Added License section to `Help` sidebar
+
 Version 1.2.0
 ---
 
