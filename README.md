@@ -18,7 +18,7 @@ All things Flowrift.
 | [About](https://about.flowrift.com) | <img src="https://img.shields.io/static/v1?label=&message=External&color=323237"> | A quick introduction to Flowrift. |
 | [Changelog](/CHANGELOG.md) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | Features and bug fixes. |
 | [License](/LICENSE) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | License for code provided by Flowrift. |
-| [Issues](https://github.com/uicrooks/flowrift-space/issues) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | Flowrift issue tracker. |
-| [Discussions](https://github.com/uicrooks/flowrift-space/discussions) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | A place for discussions about Flowrift. |
+| [Issues](https://github.com/n6ai/flowrift/issues) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | Flowrift issue tracker. |
+| [Discussions](https://github.com/n6ai/flowrift/discussions) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | A place for discussions about Flowrift. |
 | [Marketing material](/marketing) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | High-resolution Flowrift images. |
 <!-- links (end) -->
