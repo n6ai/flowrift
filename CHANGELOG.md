@@ -2,7 +2,7 @@ Version 1.3.0
 ---
 
 ### Content
-* Updated all content to Tailwind version 3.
+* Updated all content to Tailwind version 3
 
 Version 1.2.1
 ---
