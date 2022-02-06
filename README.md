@@ -1,16 +1,11 @@
-<!-- banner (start) -->
 <a href="https://flowrift.com?utm_source=flowrift-spaces&utm_medium=organic" target="_blank">
   <img src=".github/img/banner.svg" width="100%">
 </a>
-<!-- banner (end) -->
 
-<!-- title / description (start) -->
-## Flowrift Space
+## Flowrift
 
 All things Flowrift.
-<!-- title / description (end) -->
 
-<!-- links (start) -->
 ## Links
 | Link | Location | Description |
 | - | - | - |
@@ -21,4 +16,3 @@ All things Flowrift.
 | [Issues](https://github.com/n6ai/flowrift/issues) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | Flowrift issue tracker. |
 | [Discussions](https://github.com/n6ai/flowrift/discussions) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | A place for discussions about Flowrift. |
 | [Marketing material](/marketing) | <img src="https://img.shields.io/static/v1?label=&message=Repo&color=323237"> | High-resolution Flowrift images. |
-<!-- links (end) -->
