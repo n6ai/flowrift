@@ -1,3 +1,9 @@
+Version 1.3.1
+---
+
+### Core
+* Fixed images not loading properly
+
 Version 1.3.0
 ---
 
