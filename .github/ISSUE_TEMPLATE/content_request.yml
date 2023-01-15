@@ -1,0 +1,24 @@
+name: "\U0001F680 New Content proposal"
+description: Propose new content to be added to Flowrift
+labels: ['enhancement: pending']
+title: '[Content]: YOUR TITLE HERE'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in the project and taking the time to fill out this content report!
+  - type: textarea
+    id: content-description
+    attributes:
+      label: Clear and concise description of the content request to be added to Flowrift. Screenshorts or links can be helpful.
+      description: 'As a developer using Flowrift I want [goal / wish] so that [benefit].'
+    validations:
+      required: true
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: Validations
+      description: Before submitting the issue, please make sure you do the following
+      options:
+        - label: Check that there isn't already an issue that request the same content to avoid creating a duplicate.
+          required: true

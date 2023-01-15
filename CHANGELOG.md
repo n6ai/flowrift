@@ -1,3 +1,9 @@
+Version 1.3.2
+---
+
+### Content
+* Fixed typo in `Banner` padding classes
+
 Version 1.3.1
 ---
 
