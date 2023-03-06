@@ -1,3 +1,10 @@
+Version 1.4.0
+---
+
+### Content
+* Added new `Floating Navigation` collection
+* All Blocks are now pre-formatted with [`prettier-plugin-tailwindcss`](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier) for more consistency
+
 Version 1.3.2
 ---
 
