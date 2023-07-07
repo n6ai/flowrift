@@ -1,3 +1,9 @@
+Version 1.4.1
+---
+
+### Core
+* Fixed dark mode color issues
+
 Version 1.4.0
 ---
 
