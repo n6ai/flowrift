@@ -1,3 +1,9 @@
+Version 1.4.2
+---
+
+### Content
+* Fixed `text-black` class, which was previously falsely called `text-black-800`
+
 Version 1.4.1
 ---
 
